@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning redux
 - 👯 I’m looking to collaborate on React Projects
 - 📫 How to reach me: alaa.mmarei@gmail.com
-- ⚡ Fun fact: I love coding 🚴‍♀️
+- ⚡ Fun fact: I love coding 
 
 <br><br/>
 
