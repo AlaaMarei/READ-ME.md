@@ -23,7 +23,7 @@
 ## 📚 Libraries <br><br/> ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ## Profile Views <br><br/> <img src="https://profile-counter.glitch.me/AlaaMarei/count.svg">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaMarei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## AlaaMarei Github Stats <br> ![AlaaMarei GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaaMarei&count_private=true&show_icons=true&theme=dark)<br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlaaMarei&theme=radical)](https://git.io/streak-stats)​<br>[![trophy](https://github-profile-trophy.vercel.app/?username=AlaaMarei)](https://github.com/ryo-ma/github-profile-trophy)
 
 
